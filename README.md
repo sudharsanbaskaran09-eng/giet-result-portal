@@ -156,5 +156,4 @@ Sudharsan B
 B.E Computer Science Engineering  
 Global Institute of Engineering and Technology
 
-GitHub  
-https://github.com/YOUR_USERNAME
+GitHub - https://github.com/sudharsanbaskaran09-eng/giet-result-portal
