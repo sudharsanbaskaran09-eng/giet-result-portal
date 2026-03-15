@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GIET Student Result Portal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Background Grid -->
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <div class="page-wrapper">
+
+    <!-- Header -->
+    <header class="site-header">
+      <div class="header-badge">ANNA UNIVERSITY · NOV/DEC 2025</div>
+      <h1 class="site-title">GIET Result Portal</h1>
+      <p class="site-sub">Global Institute of Engineering and Technology</p>
+    </header>
+
+    <!-- Search Card -->
+    <main class="main-content">
+      <section class="search-card" id="search-section">
+        <label class="search-label" for="regInput">Enter Your Register Number</label>
+        <div class="search-row">
+          <input
+            id="regInput"
+            type="text"
+            class="search-input"
+            placeholder="e.g. 510924104068"
+            maxlength="12"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="searchBtn" class="search-btn" onclick="searchResult()">
+            <span class="btn-text">Search</span>
+            <span class="btn-icon">→</span>
+          </button>
+        </div>
+        <p class="search-hint">Results available for B.E. CSE &amp; B.Tech IT · All Semesters</p>
+      </section>
+
+      <!-- Error Message -->
+      <div id="errorBox" class="error-box hidden">
+        <span class="error-icon">⚠</span>
+        <span id="errorMsg">Register number not found.</span>
+      </div>
+
+      <!-- Loading Spinner -->
+      <div id="loadingBox" class="loading-box hidden">
+        <div class="spinner"></div>
+        <span>Fetching results…</span>
+      </div>
+
+      <!-- Result Card -->
+      <section id="resultCard" class="result-card hidden">
+
+        <!-- Student Info -->
+        <div class="student-meta">
+          <div class="meta-block">
+            <span class="meta-label">Student Name</span>
+            <span class="meta-value" id="rName">—</span>
+          </div>
+          <div class="meta-block">
+            <span class="meta-label">Register No.</span>
+            <span class="meta-value mono" id="rRegNo">—</span>
+          </div>
+          <div class="meta-block">
+            <span class="meta-label">Department</span>
+            <span class="meta-value" id="rDept">—</span>
+          </div>
+        </div>
+
+        <!-- Semester Tables -->
+        <div id="semesterContainer" class="semester-container"></div>
+
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      Provisional Results · Published 13-03-2026 · For queries contact the Controller of Examinations
+    </footer>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

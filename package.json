@@ -1,0 +1,14 @@
+{
+  "name": "giet-result-portal",
+  "version": "1.0.0",
+  "description": "GIET Student Result Portal - Anna University",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "parse": "node parsePdf.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdf-parse": "^1.1.1"
+  }
+}
