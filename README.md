@@ -91,7 +91,7 @@ result-portal/
 Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/giet-result-portal.git
+git clone https://github.com/sudharsanbaskaran09-eng/giet-result-portal.git
 ```
 
 Go into project folder
