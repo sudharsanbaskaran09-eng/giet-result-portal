@@ -3,129 +3,86 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GIET Result Portal</title>
+  <title>GIET Student Result Portal</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
-<canvas id="particles"></canvas>
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-glow" aria-hidden="true"></div>
 
-<div class="scanlines"></div>
+  <div class="page-wrapper">
 
-<div class="page">
+    <header class="site-header">
+      <div class="header-badge">ANNA UNIVERSITY · NOV/DEC 2025</div>
+      <h1 class="site-title">GIET Result Portal</h1>
+      <p class="site-sub">Global Institute of Engineering and Technology</p>
+    </header>
 
-  <header class="hero">
-    <div class="hero-tag">ANNA UNIVERSITY · NOV/DEC 2025 · PROVISIONAL</div>
-    <h1 class="hero-title">
-      <span class="title-giet">GIET</span>
-      <span class="title-result">RESULT</span>
-      <span class="title-portal">PORTAL</span>
-    </h1>
-    <p class="hero-sub">Global Institute of Engineering and Technology</p>
-    <div class="dept-pills">
-      <span class="pill">B.E. CSE</span>
-      <span class="pill">B.Tech IT</span>
-      <span class="pill">B.E. AIML</span>
-      <span class="pill">B.Tech AIDS</span>
-      <span class="pill">M.E. CSE</span>
-    </div>
-  </header>
+    <main class="main-content">
+      <section class="search-card" id="search-section">
+        <label class="search-label" for="regInput">Enter Your Register Number</label>
+        <div class="search-row">
+          <input
+            id="regInput"
+            type="text"
+            class="search-input"
+            placeholder="e.g. 510924104068"
+            maxlength="12"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="searchBtn" class="search-btn" onclick="searchResult()">
+            <span class="btn-text">Search</span>
+            <span class="btn-icon">→</span>
+          </button>
+        </div>
+        <p class="search-hint">B.E. CSE · B.Tech IT · B.E. AIML · B.Tech AIDS · M.E. CSE · All Semesters</p>
+      </section>
 
-  <div class="search-section">
-    <div class="search-wrapper">
-      <div class="search-label">REGISTER NUMBER</div>
-      <div class="search-box">
-        <input id="regInput" type="text" placeholder="510924104068" maxlength="12" autocomplete="off" spellcheck="false" />
-        <button id="searchBtn" onclick="searchResult()">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        </button>
+      <div id="errorBox" class="error-box hidden">
+        <span class="error-icon">⚠</span>
+        <span id="errorMsg">Register number not found.</span>
       </div>
-      <div class="search-count" id="studentCount">979 students · 5 departments</div>
-    </div>
-  </div>
 
-  <div id="loadingBox" class="state-box hidden">
-    <div class="loader-ring"></div>
-    <span>Fetching results…</span>
-  </div>
-
-  <div id="errorBox" class="state-box error hidden">
-    <div class="error-icon">!</div>
-    <span id="errorMsg">Register number not found.</span>
-  </div>
-
-  <section id="resultCard" class="result hidden">
-
-    <div class="result-header">
-      <div class="result-avatar" id="rAvatar">SB</div>
-      <div class="result-info">
-        <div class="result-name" id="rName">SUDHARSAN B</div>
-        <div class="result-reg" id="rRegNo">510922104069</div>
-        <div class="result-dept" id="rDept">B.E. Computer Science & Engineering</div>
+      <div id="loadingBox" class="loading-box hidden">
+        <div class="spinner"></div>
+        <span>Fetching results…</span>
       </div>
-      <div class="result-badge" id="rBadge">CSE</div>
-    </div>
 
-    <div id="semesterContainer" class="semesters"></div>
+      <section id="resultCard" class="result-card hidden">
 
-  </section>
+        <div class="student-meta">
+          <div class="meta-block">
+            <span class="meta-label">Student Name</span>
+            <span class="meta-value" id="rName">—</span>
+          </div>
+          <div class="meta-block">
+            <span class="meta-label">Register No.</span>
+            <span class="meta-value mono" id="rRegNo">—</span>
+          </div>
+          <div class="meta-block">
+            <span class="meta-label">Department</span>
+            <span class="meta-value" id="rDept">—</span>
+          </div>
+        </div>
 
-  <footer class="site-footer">
-    <div class="footer-built">Built by <span>Sudharsan B</span> · Final Year Student · 510922104069</div>
-    <div class="footer-meta">Provisional Results · Published 13-03-2026 · Anna University COE</div>
-  </footer>
+        <div id="semesterContainer" class="semester-container"></div>
 
-</div>
+      </section>
+    </main>
 
-<script src="script.js"></script>
-<script>
-// Particle canvas
-const canvas = document.getElementById('particles');
-const ctx = canvas.getContext('2d');
-let W, H, particles = [];
+    <footer class="site-footer">
+      <div class="footer-credit">Built by <span class="credit-name">Sudharsan B</span> · Final Year Student · 510922104069</div>
+      <div class="footer-meta">Provisional Results · Published 13-03-2026 · Anna University COE</div>
+    </footer>
 
-function resize() {
-  W = canvas.width = window.innerWidth;
-  H = canvas.height = window.innerHeight;
-}
+  </div>
 
-function createParticles() {
-  particles = [];
-  for (let i = 0; i < 80; i++) {
-    particles.push({
-      x: Math.random() * W,
-      y: Math.random() * H,
-      r: Math.random() * 1.5 + 0.3,
-      dx: (Math.random() - 0.5) * 0.3,
-      dy: -Math.random() * 0.4 - 0.1,
-      o: Math.random() * 0.5 + 0.1
-    });
-  }
-}
-
-function animateParticles() {
-  ctx.clearRect(0, 0, W, H);
-  particles.forEach(p => {
-    ctx.beginPath();
-    ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-    ctx.fillStyle = `rgba(255, 200, 50, ${p.o})`;
-    ctx.fill();
-    p.x += p.dx; p.y += p.dy;
-    if (p.y < -5) { p.y = H + 5; p.x = Math.random() * W; }
-    if (p.x < -5) p.x = W + 5;
-    if (p.x > W + 5) p.x = -5;
-  });
-  requestAnimationFrame(animateParticles);
-}
-
-resize(); createParticles(); animateParticles();
-window.addEventListener('resize', () => { resize(); createParticles(); });
-
-// Enter key
-document.getElementById('regInput').addEventListener('keydown', e => { if (e.key === 'Enter') searchResult(); });
-document.getElementById('regInput').addEventListener('input', e => { e.target.value = e.target.value.replace(/[^0-9]/g, ''); });
-</script>
+  <script src="script.js"></script>
 </body>
 </html>
