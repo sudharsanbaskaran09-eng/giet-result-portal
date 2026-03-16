@@ -57,9 +57,14 @@ function renderSemester(semKey, subjects) {
 }
 
 function deptFullName(dept) {
-  if (dept === 'CSE') return 'B.E. Computer Science & Engineering';
-  if (dept === 'IT')  return 'B.Tech. Information Technology';
-  return dept;
+  const map = {
+    'CSE':    'B.E. Computer Science & Engineering',
+    'IT':     'B.Tech. Information Technology',
+    'AIML':   'B.E. CSE (Artificial Intelligence & Machine Learning)',
+    'AIDS':   'B.Tech. Artificial Intelligence & Data Science',
+    'ME-CSE': 'M.E. Computer Science & Engineering',
+  };
+  return map[dept] || dept;
 }
 
 // ─── UI state helpers ─────────────────────────────────────────────────────────

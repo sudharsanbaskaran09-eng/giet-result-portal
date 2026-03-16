@@ -267,7 +267,19 @@ body {
   font-size: 11px; letter-spacing: 0.04em;
   color: var(--muted); text-align: center;
   margin-top: auto; padding-top: 8px;
+  display: flex; flex-direction: column; gap: 4px;
 }
+.footer-credit {
+  font-family: var(--font-display); font-size: 13px; font-weight: 600;
+  color: var(--text);
+}
+.credit-name {
+  color: var(--accent2);
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.footer-meta { color: var(--muted); font-size: 11px; }
 
 /* ─── Utilities ────────────────────────────────────────────────── */
 .hidden { display: none !important; }

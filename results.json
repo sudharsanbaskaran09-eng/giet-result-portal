@@ -16226,5 +16226,4454 @@
         "NM1117": "O"
       }
     }
+  },
+  "510924405001": {
+    "name": "ANISHA  G",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "MA4151": "UA"
+      },
+      "sem3": {
+        "CP4311": "UA",
+        "CP4391": "A",
+        "DS4015": "A",
+        "IF4073": "A",
+        "MP4094": "A"
+      }
+    }
+  },
+  "510924405007": {
+    "name": "KALAISELVI  R K",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "MA4151": "B+"
+      },
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "B+",
+        "IF4073": "A",
+        "MP4094": "B"
+      }
+    }
+  },
+  "510924405009": {
+    "name": "PRABHAKARAN  R",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "MA4151": "B+"
+      },
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "B+",
+        "DS4015": "B+",
+        "IF4073": "B+",
+        "MP4094": "B"
+      }
+    }
+  },
+  "510924405012": {
+    "name": "THENMOZHI  S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP4151": "U",
+        "CP4153": "B+",
+        "CP4154": "UA",
+        "MA4151": "UA",
+        "RM4151": "UA"
+      },
+      "sem2": {
+        "CP4096": "UA",
+        "SE4151": "UA"
+      },
+      "sem3": {
+        "CP4311": "A+",
+        "CP4391": "B+",
+        "DS4015": "B+",
+        "IF4073": "B+",
+        "MP4094": "B"
+      }
+    }
+  },
+  "510924405013": {
+    "name": "VELARAJAKUMARI  J",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP4151": "B+"
+      },
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "B+",
+        "IF4073": "B",
+        "MP4094": "B+"
+      }
+    }
+  },
+  "510924405014": {
+    "name": "VIGNESH  G",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "MA4151": "U"
+      },
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "A",
+        "IF4073": "B+",
+        "MP4094": "C"
+      }
+    }
+  },
+  "510925405001": {
+    "name": "ARIVIN  G",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "B",
+        "CP25C02": "B+",
+        "CP25C03": "A",
+        "CP25C04": "B",
+        "MA25C07": "U"
+      }
+    }
+  },
+  "510925405002": {
+    "name": "BHAGYA  R",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A",
+        "CP25C02": "A+",
+        "CP25C03": "A",
+        "CP25C04": "A",
+        "MA25C07": "A"
+      }
+    }
+  },
+  "510925405003": {
+    "name": "HEMASHREE  M",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A",
+        "CP25C02": "A",
+        "CP25C03": "B+",
+        "CP25C04": "A",
+        "MA25C07": "A+"
+      }
+    }
+  },
+  "510925405004": {
+    "name": "LATHA  V",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A",
+        "CP25C03": "B",
+        "CP25C04": "A",
+        "MA25C07": "A+"
+      }
+    }
+  },
+  "510925405005": {
+    "name": "NAZIRA  S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A",
+        "CP25C02": "A",
+        "CP25C03": "U",
+        "CP25C04": "A",
+        "MA25C07": "A"
+      }
+    }
+  },
+  "510925405006": {
+    "name": "PADMAVATHY  M",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A",
+        "CP25C03": "A+",
+        "CP25C04": "A+",
+        "MA25C07": "A+"
+      }
+    }
+  },
+  "510925405008": {
+    "name": "PAVITHRA  A",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A+",
+        "CP25C03": "B",
+        "CP25C04": "A+",
+        "MA25C07": "A+"
+      }
+    }
+  },
+  "510925405009": {
+    "name": "PRABHU  K",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A+",
+        "CP25C03": "B+",
+        "CP25C04": "A+",
+        "MA25C07": "A+"
+      }
+    }
+  },
+  "510925405010": {
+    "name": "PREETHI  P",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A",
+        "CP25C03": "A",
+        "CP25C04": "A",
+        "MA25C07": "A+"
+      }
+    }
+  },
+  "510925405011": {
+    "name": "PUNITHA  S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A",
+        "CP25C02": "A",
+        "CP25C03": "B+",
+        "CP25C04": "A",
+        "MA25C07": "A"
+      }
+    }
+  },
+  "510925405012": {
+    "name": "RABIYATHUL BASEERA  A",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A+",
+        "CP25C03": "A",
+        "CP25C04": "A+",
+        "MA25C07": "A"
+      }
+    }
+  },
+  "510925405013": {
+    "name": "SADHANA  D",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A",
+        "CP25C03": "A",
+        "CP25C04": "A",
+        "MA25C07": "A"
+      }
+    }
+  },
+  "510925405014": {
+    "name": "SANDHIYA  V S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A",
+        "CP25C03": "A",
+        "CP25C04": "A+",
+        "MA25C07": "B"
+      }
+    }
+  },
+  "510925405015": {
+    "name": "SNEHA  J",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A",
+        "CP25C02": "A",
+        "CP25C03": "A",
+        "CP25C04": "A",
+        "MA25C07": "B+"
+      }
+    }
+  },
+  "510925405016": {
+    "name": "SOUNDHARYA  B",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "A+",
+        "CP25C03": "A",
+        "CP25C04": "A+",
+        "MA25C07": "B"
+      }
+    }
+  },
+  "510925405017": {
+    "name": "SWETHA  A P",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A+",
+        "CP25C02": "B",
+        "CP25C03": "B+",
+        "CP25C04": "A",
+        "MA25C07": "U"
+      }
+    }
+  },
+  "510925405018": {
+    "name": "YUVARANI  S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem1": {
+        "CP25101": "S",
+        "CP25C01": "A",
+        "CP25C02": "A",
+        "CP25C03": "B+",
+        "CP25C04": "B+",
+        "MA25C07": "U"
+      }
+    }
+  },
+  "510924405002": {
+    "name": "BERKMANS  K",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "A",
+        "IF4073": "A",
+        "MP4094": "A"
+      }
+    }
+  },
+  "510924405003": {
+    "name": "BHUVANESWARI  R",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "A",
+        "IF4073": "A",
+        "MP4094": "A"
+      }
+    }
+  },
+  "510924405004": {
+    "name": "DEEPIKA  V",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "A",
+        "IF4073": "A",
+        "MP4094": "A"
+      }
+    }
+  },
+  "510924405005": {
+    "name": "JAYALAKSHMI  M",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "A",
+        "IF4073": "B+",
+        "MP4094": "A"
+      }
+    }
+  },
+  "510924405008": {
+    "name": "MANGALAKSHMI  B",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "B+",
+        "IF4073": "A",
+        "MP4094": "A"
+      }
+    }
+  },
+  "510924405010": {
+    "name": "RANJINI  L",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "B+",
+        "IF4073": "A",
+        "MP4094": "B+"
+      }
+    }
+  },
+  "510924405011": {
+    "name": "SELVAMANI  S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem3": {
+        "CP4311": "O",
+        "CP4391": "A",
+        "DS4015": "B+",
+        "IF4073": "A",
+        "MP4094": "C"
+      }
+    }
+  },
+  "510923405006": {
+    "name": "SOFHIYA  S",
+    "department": "ME-CSE",
+    "semesters": {
+      "sem4": {}
+    }
+  },
+  "510924148001": {
+    "name": "ARFATH  E",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CY3151": "C"
+      },
+      "sem2": {
+        "HS3252": "B+",
+        "MA3251": "B",
+        "PH3256": "B"
+      },
+      "sem3": {
+        "CD3281": "A+",
+        "CD3291": "B+",
+        "CS3351": "B+",
+        "CS3352": "B+",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "B+",
+        "GE3361": "A+",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148006": {
+    "name": "JAGADEESH  N",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "GE3151": "UA",
+        "GE3152": "UA",
+        "MA3151": "UA",
+        "PH3151": "UA"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "UA",
+        "GE3251": "UA",
+        "MA3251": "UA",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "CD3281": "UA",
+        "CD3291": "UA",
+        "CS3351": "UA",
+        "CS3352": "UA",
+        "CS3361": "UA",
+        "CS3381": "UA",
+        "CS3391": "UA",
+        "GE3361": "O",
+        "MA3354": "UA",
+        "NM1113": "UA"
+      }
+    }
+  },
+  "510924148007": {
+    "name": "JEEVA  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "PH3151": "B"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "U",
+        "HS3252": "B+",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "CD3281": "A",
+        "CD3291": "U",
+        "CS3351": "B+",
+        "CS3352": "B",
+        "CS3361": "A+",
+        "CS3381": "A+",
+        "CS3391": "B",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148008": {
+    "name": "JEEVANANTHAM  S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CY3151": "UA",
+        "GE3151": "UA",
+        "MA3151": "UA",
+        "PH3151": "UA"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "UA",
+        "MA3251": "UA",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "CD3281": "UA",
+        "CD3291": "UA",
+        "CS3351": "UA",
+        "CS3352": "UA",
+        "CS3361": "UA",
+        "CS3381": "UA",
+        "CS3391": "UA",
+        "GE3361": "O",
+        "MA3354": "UA",
+        "NM1113": "UA"
+      }
+    }
+  },
+  "510924148010": {
+    "name": "KUMARESAN  R",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "PH3151": "B"
+      },
+      "sem2": {
+        "BE3251": "B+",
+        "CS3251": "U",
+        "GE3251": "B+",
+        "HS3252": "B+",
+        "MA3251": "B",
+        "PH3256": "B"
+      },
+      "sem3": {
+        "CD3281": "A",
+        "CD3291": "B",
+        "CS3351": "B+",
+        "CS3352": "B+",
+        "CS3361": "A+",
+        "CS3381": "A+",
+        "CS3391": "B+",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148011": {
+    "name": "LOKESH  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "BS3171": "A",
+        "CY3151": "UA",
+        "GE3151": "U",
+        "GE3152": "B+",
+        "MA3151": "UA",
+        "PH3151": "UA"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "UA",
+        "GE3251": "B",
+        "MA3251": "UA",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "CD3281": "A",
+        "CD3291": "B",
+        "CS3351": "B+",
+        "CS3352": "B",
+        "CS3361": "O",
+        "CS3381": "A+",
+        "CS3391": "B",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148013": {
+    "name": "MOHAMMED MUSHRAF  A",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "BS3171": "A+",
+        "CY3151": "U",
+        "GE3151": "UA",
+        "GE3152": "U",
+        "HS3152": "U",
+        "MA3151": "U",
+        "PH3151": "U"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "UA",
+        "GE3251": "UA",
+        "GE3252": "U",
+        "HS3252": "U",
+        "MA3251": "UA",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "CD3281": "U",
+        "CD3291": "UA",
+        "CS3351": "U",
+        "CS3352": "UA",
+        "CS3361": "A",
+        "CS3381": "A",
+        "CS3391": "UA",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148016": {
+    "name": "RAJKUMAR  L",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CY3151": "C",
+        "GE3151": "U",
+        "MA3151": "B",
+        "PH3151": "U"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "U",
+        "GE3251": "B",
+        "MA3251": "UA",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "CD3281": "A+",
+        "CD3291": "U",
+        "CS3351": "B+",
+        "CS3352": "B+",
+        "CS3361": "A+",
+        "CS3381": "A+",
+        "CS3391": "U",
+        "GE3361": "O",
+        "MA3354": "U"
+      }
+    }
+  },
+  "510924148019": {
+    "name": "SANTHOSH  M",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "GE3151": "B",
+        "MA3151": "UA",
+        "PH3151": "B"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "U",
+        "GE3251": "UA",
+        "MA3251": "B",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "CD3281": "A+",
+        "CD3291": "U",
+        "CS3351": "U",
+        "CS3352": "B+",
+        "CS3361": "A+",
+        "CS3381": "O",
+        "CS3391": "U",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148020": {
+    "name": "SARGESH  N",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "MA3151": "U",
+        "PH3151": "B"
+      },
+      "sem2": {
+        "CS3251": "U",
+        "HS3252": "B+",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "CD3281": "A+",
+        "CD3291": "U",
+        "CS3351": "B+",
+        "CS3352": "B",
+        "CS3361": "O",
+        "CS3381": "A+",
+        "CS3391": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148021": {
+    "name": "SATHIYA NARAYANAN  S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CY3151": "B",
+        "MA3151": "UA",
+        "PH3151": "U"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "CS3251": "U",
+        "MA3251": "UA",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "CD3281": "A",
+        "CD3291": "UA",
+        "CS3351": "B+",
+        "CS3352": "UA",
+        "CS3361": "A+",
+        "CS3381": "O",
+        "CS3391": "UA",
+        "GE3361": "A+",
+        "MA3354": "UA",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148022": {
+    "name": "THARUN  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA",
+        "PH3151": "B"
+      },
+      "sem2": {
+        "CS3251": "UA",
+        "MA3251": "B",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "CD3281": "A+",
+        "CD3291": "B",
+        "CS3351": "B+",
+        "CS3352": "B",
+        "CS3361": "A+",
+        "CS3381": "A+",
+        "CS3391": "U",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510925148001": {
+    "name": "ARJUN  S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "U",
+        "UC25A01": "A+",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148002": {
+    "name": "BOBBY  M",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "S",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "A",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148003": {
+    "name": "DHANUSH  G",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925148004": {
+    "name": "GOMATHI  A",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148005": {
+    "name": "GOWTHAM  P",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "U",
+        "EN25C01": "B",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "U",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148006": {
+    "name": "HARSHAI KUMAR  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B+",
+        "ME25C04": "A",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148007": {
+    "name": "HEMANTH KUMAR  R",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925148008": {
+    "name": "JAGADEESH  V",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925148009": {
+    "name": "KAMALESH  E",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925148010": {
+    "name": "KAMALESH  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "A",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148011": {
+    "name": "KUMARAVEL  V",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B",
+        "MA25C01": "C+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148012": {
+    "name": "MADHUNISHA  A",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148013": {
+    "name": "MAHENDRAN  V G",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148014": {
+    "name": "MOHAMMED ZEESHAN  S T",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148015": {
+    "name": "NAVARASAN  T",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925148016": {
+    "name": "NAVEENKUMAR  S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148017": {
+    "name": "POOJA  R R",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148018": {
+    "name": "PRADEEP  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "B+",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148019": {
+    "name": "PRAVEEN KUMAR  V",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925148020": {
+    "name": "PREM KUMAR  D",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "A+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148021": {
+    "name": "REVATHI  T",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "B+",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148022": {
+    "name": "ROSHAN  S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "A+",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148023": {
+    "name": "SRI HARI  H S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "S",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A+"
+      }
+    }
+  },
+  "510925148024": {
+    "name": "SUPRIYA  K",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148025": {
+    "name": "TAKSHI PRAVINAA  A P",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148026": {
+    "name": "TAMILSELVI  A",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925148027": {
+    "name": "VAISHNAVI  N",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "S",
+        "EN25C01": "A+",
+        "MA25C01": "A+",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925148028": {
+    "name": "VIGNESH  S",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "A+",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925148029": {
+    "name": "YAMUNA  U",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "S",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "S",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A+"
+      }
+    }
+  },
+  "510925148030": {
+    "name": "YOGANANTHAM  B",
+    "department": "AIML",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510924148012": {
+    "name": "MATHUMITHA  M",
+    "department": "AIML",
+    "semesters": {
+      "sem2": {
+        "MA3251": "A"
+      },
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "A",
+        "CS3351": "A",
+        "CS3352": "A+",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "A",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148015": {
+    "name": "PRIYADHARSHINI  E",
+    "department": "AIML",
+    "semesters": {
+      "sem2": {
+        "CS3251": "B+",
+        "PH3256": "A"
+      },
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "A",
+        "CS3351": "A",
+        "CS3352": "A+",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "B+",
+        "GE3361": "O",
+        "MA3354": "A+"
+      }
+    }
+  },
+  "510924148018": {
+    "name": "RAYAAN  F",
+    "department": "AIML",
+    "semesters": {
+      "sem2": {},
+      "sem3": {}
+    }
+  },
+  "510924148003": {
+    "name": "GAYATHRI  N",
+    "department": "AIML",
+    "semesters": {
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "O",
+        "CS3351": "A",
+        "CS3352": "O",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "B+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148009": {
+    "name": "KAYUKA  P.B.",
+    "department": "AIML",
+    "semesters": {
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "A+",
+        "CS3351": "O",
+        "CS3352": "O",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "A+",
+        "GE3361": "O",
+        "MA3354": "A+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148014": {
+    "name": "NIVETHA  D",
+    "department": "AIML",
+    "semesters": {
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "A",
+        "CS3351": "A+",
+        "CS3352": "A+",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "A+",
+        "GE3361": "O",
+        "MA3354": "B+"
+      }
+    }
+  },
+  "510924148017": {
+    "name": "RAMYA  A",
+    "department": "AIML",
+    "semesters": {
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "B+",
+        "CS3351": "A",
+        "CS3352": "A+",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148301": {
+    "name": "BHARATHI  G",
+    "department": "AIML",
+    "semesters": {
+      "sem3": {
+        "CD3281": "O",
+        "CD3291": "B+",
+        "CS3351": "A",
+        "CS3352": "B+",
+        "CS3361": "O",
+        "CS3381": "O",
+        "CS3391": "B+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924148302": {
+    "name": "DILLI BABU  S",
+    "department": "AIML",
+    "semesters": {
+      "sem3": {
+        "CD3281": "A+",
+        "CD3291": "B+",
+        "CS3351": "B+",
+        "CS3352": "B+",
+        "CS3361": "A+",
+        "CS3381": "A+",
+        "CS3391": "U",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510923243006": {
+    "name": "HARI KARTHIK  N",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA"
+      },
+      "sem2": {
+        "AD3251": "UA",
+        "BE3251": "UA",
+        "GE3251": "UA",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "AD3391": "UA"
+      },
+      "sem4": {
+        "AD3491": "UA",
+        "AL3451": "UA",
+        "MA3391": "UA"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "A",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "B",
+        "MX3084": "O",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243008": {
+    "name": "KARTHIKEYAN  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA"
+      },
+      "sem2": {
+        "AD3251": "B",
+        "BE3251": "UA",
+        "GE3251": "U",
+        "HS3252": "B+",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3391": "B",
+        "MA3354": "UA"
+      },
+      "sem4": {
+        "AD3491": "U",
+        "AL3451": "B",
+        "AL3452": "B+",
+        "GE3451": "U",
+        "MA3391": "U"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "A+",
+        "CCS334": "B+",
+        "CCS335": "B+",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "U",
+        "MX3084": "A+",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243013": {
+    "name": "NARASIMAN  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA"
+      },
+      "sem4": {
+        "MA3391": "UA"
+      },
+      "sem5": {
+        "AD3501": "U",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243015": {
+    "name": "NITHISH KUMAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CY3151": "B",
+        "GE3151": "U",
+        "MA3151": "U"
+      },
+      "sem2": {
+        "BE3251": "U",
+        "MA3251": "U"
+      },
+      "sem3": {
+        "AD3391": "B+",
+        "MA3354": "U"
+      },
+      "sem4": {
+        "AD3491": "B",
+        "AL3451": "U",
+        "CS3591": "B+",
+        "GE3451": "U",
+        "MA3391": "U"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "B+",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243019": {
+    "name": "RATHINAVEL  G",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {},
+      "sem2": {},
+      "sem3": {},
+      "sem4": {},
+      "sem5": {}
+    }
+  },
+  "510923243025": {
+    "name": "STEPHEN FREDRICK  C",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "UA",
+        "PH3151": "B"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "MA3251": "U"
+      },
+      "sem3": {
+        "AD3391": "UA",
+        "MA3354": "U"
+      },
+      "sem4": {
+        "AD3491": "UA",
+        "AL3451": "UA",
+        "GE3451": "UA",
+        "MA3391": "UA"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243026": {
+    "name": "TAMIZHARASAN  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CY3151": "U",
+        "HS3152": "B",
+        "MA3151": "B",
+        "PH3151": "U"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "GE3251": "B",
+        "GE3252": "U",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3391": "UA",
+        "MA3354": "U"
+      },
+      "sem4": {
+        "AD3491": "U",
+        "AL3451": "U",
+        "GE3451": "U",
+        "MA3391": "U"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B",
+        "CCS335": "A",
+        "CCS341": "B",
+        "CS3551": "U",
+        "CW3551": "U",
+        "MX3084": "O",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243027": {
+    "name": "VEENA  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "U"
+      },
+      "sem2": {
+        "GE3251": "B",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem4": {
+        "AL3451": "B+",
+        "MA3391": "B+"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243701": {
+    "name": "AKASH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "U",
+        "PH3151": "U"
+      },
+      "sem2": {
+        "BE3251": "U",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "MA3354": "U"
+      },
+      "sem4": {
+        "AD3491": "U",
+        "AL3451": "U",
+        "CS3591": "U",
+        "GE3451": "U",
+        "MA3391": "U"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B",
+        "CCS335": "B+",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "U",
+        "MX3084": "O",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510924243005": {
+    "name": "BARATH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "U",
+        "MA3151": "C",
+        "PH3151": "C"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "B",
+        "GE3251": "B+",
+        "MA3251": "UA",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "U",
+        "AL3391": "U",
+        "CS3351": "B",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243009": {
+    "name": "DINESH  B",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "BS3171": "A",
+        "MA3151": "U"
+      },
+      "sem2": {
+        "AD3251": "B+",
+        "BE3251": "B+",
+        "GE3251": "B+",
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A",
+        "AD3391": "B+",
+        "AL3391": "B",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "B",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243010": {
+    "name": "DUSHYANTH  B",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "PH3151": "B+"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "MA3251": "B+",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243014": {
+    "name": "GOWTHAM  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "BS3171": "A",
+        "GE3151": "UA",
+        "MA3151": "UA",
+        "PH3151": "UA"
+      },
+      "sem2": {
+        "AD3251": "UA",
+        "BE3251": "UA",
+        "GE3251": "UA",
+        "MA3251": "UA",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "U",
+        "AD3311": "A+",
+        "AD3351": "U",
+        "AD3381": "A+",
+        "AD3391": "U",
+        "AL3391": "U",
+        "CS3351": "U",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243021": {
+    "name": "KISHORE  U",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "U"
+      },
+      "sem2": {
+        "BE3251": "B",
+        "HS3252": "B+",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243022": {
+    "name": "MAGESH  Y",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "U",
+        "GE3152": "UA"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "UA",
+        "GE3251": "B+",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243024": {
+    "name": "MOGHANA PRASHANTH  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CY3151": "B",
+        "MA3151": "U"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "U",
+        "GE3251": "B+",
+        "MA3251": "U",
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243033": {
+    "name": "PRAJESH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CY3151": "UA",
+        "GE3151": "UA",
+        "MA3151": "UA",
+        "PH3151": "UA"
+      },
+      "sem2": {
+        "AD3251": "UA",
+        "BE3251": "UA",
+        "GE3251": "UA",
+        "GE3271": "UA",
+        "HS3252": "UA",
+        "MA3251": "UA",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "AD3301": "UA",
+        "AD3311": "UA",
+        "AD3351": "UA",
+        "AD3381": "UA",
+        "AD3391": "UA",
+        "AL3391": "UA",
+        "CS3351": "UA",
+        "GE3361": "A",
+        "MA3354": "UA",
+        "NM1113": "UA"
+      }
+    }
+  },
+  "510924243042": {
+    "name": "SANTHOSH KUMAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "B",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "UA",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243043": {
+    "name": "SARATHY  U",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "U"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "U",
+        "GE3251": "B+",
+        "MA3251": "B+",
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "A+",
+        "AD3351": "U",
+        "AD3381": "A+",
+        "AD3391": "U",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243047": {
+    "name": "SIVAMBIGAI  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA"
+      },
+      "sem2": {
+        "BE3251": "UA"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "B+",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243050": {
+    "name": "THARUN  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "U",
+        "MA3151": "UA"
+      },
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "U",
+        "GE3251": "B+",
+        "MA3251": "UA"
+      },
+      "sem3": {
+        "AD3301": "U",
+        "AD3311": "O",
+        "AD3351": "U",
+        "AD3381": "A+",
+        "AD3391": "U",
+        "AL3391": "B",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243052": {
+    "name": "VISHNUVARADHAN  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "PH3151": "B+"
+      },
+      "sem2": {
+        "AD3251": "B+",
+        "GE3251": "B+",
+        "MA3251": "B+",
+        "PH3256": "UA"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "B",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243053": {
+    "name": "YOKESH  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "GE3151": "U",
+        "MA3151": "UA",
+        "PH3151": "B"
+      },
+      "sem2": {
+        "AD3251": "UA",
+        "BE3251": "B",
+        "GE3251": "B+",
+        "HS3252": "UA",
+        "MA3251": "UA",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "O",
+        "AD3391": "B",
+        "AL3391": "U",
+        "CS3351": "B",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243901": {
+    "name": "PRAISESON SAMUEL  A V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "MA3151": "UA"
+      },
+      "sem2": {
+        "BE3251": "UA",
+        "GE3251": "B",
+        "MA3251": "U",
+        "PH3256": "U"
+      },
+      "sem3": {}
+    }
+  },
+  "510925243001": {
+    "name": "ABINAYA  N",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A+",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "A+",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243002": {
+    "name": "AKASH  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243003": {
+    "name": "AKASH  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "B+",
+        "CY25C01": "U",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243004": {
+    "name": "ANBAZHAGAN  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243005": {
+    "name": "ARAVINDHAN  H",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "A",
+        "ME25C04": "S",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243006": {
+    "name": "BALAJI  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243007": {
+    "name": "DEEPIKA  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "A",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243008": {
+    "name": "DIVAKAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243009": {
+    "name": "DIVYASREE  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243010": {
+    "name": "GANAPAT  D",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "B+",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243011": {
+    "name": "GOKUL  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243012": {
+    "name": "GOKULRAJ",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243013": {
+    "name": "HANISH  K A",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B",
+        "ME25C04": "A",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243014": {
+    "name": "HARI PRAKASH  B",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243015": {
+    "name": "INIYA AKSHETHA  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243016": {
+    "name": "ISVARIYA VELAN  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243017": {
+    "name": "KAVIYA  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243018": {
+    "name": "KEERTHANA  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "B+",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243019": {
+    "name": "LALITHKUMAR  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "B+",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243020": {
+    "name": "LINGESH  E",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A+",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243021": {
+    "name": "LOGASRI  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "B+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243022": {
+    "name": "LOKESH  P B",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243023": {
+    "name": "MADHAN KUMAR  G",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243024": {
+    "name": "MAHALAKSHMI  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "B+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243025": {
+    "name": "MANIKANDAN  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "A+",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243026": {
+    "name": "MATHUMITHA  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "UA",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925243027": {
+    "name": "MINHA FATHIMA  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243028": {
+    "name": "MOHAMMED IRFAN  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243029": {
+    "name": "MONICA  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243030": {
+    "name": "NIDHARSHANA  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243031": {
+    "name": "NISHANTH  J",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "U",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243032": {
+    "name": "NIVASH  N",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A+",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243033": {
+    "name": "PAVITHRA  J",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243034": {
+    "name": "POOJA  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243035": {
+    "name": "POOVENTHAN  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "A",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243036": {
+    "name": "PRASANNA KUMAR  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925243037": {
+    "name": "PRITHIVIRAJ  D",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B",
+        "ME25C04": "A",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243038": {
+    "name": "PRITHIVIRAJ  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "B+",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925243039": {
+    "name": "RAGHUL GANESH  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925243040": {
+    "name": "RAGUL  N",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "U",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243041": {
+    "name": "RAJAMANIKKKAM  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "B+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "A+",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243042": {
+    "name": "RAKESH  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243043": {
+    "name": "REHAAN  I",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "U"
+      }
+    }
+  },
+  "510925243044": {
+    "name": "RENUKADEVI  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "A+",
+        "ME25C04": "S",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243045": {
+    "name": "ROHITH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243046": {
+    "name": "SAARAMATHI  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243047": {
+    "name": "SAFIYA  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "A",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243048": {
+    "name": "SAIMA THASLEEM  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A+",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243049": {
+    "name": "SALMAN KHAN  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "U",
+        "MA25C01": "U",
+        "ME25C04": "A",
+        "PH25C01": "B+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243050": {
+    "name": "SANTHOSH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "A",
+        "CY25C01": "U",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243051": {
+    "name": "SHOBANA  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B+"
+      }
+    }
+  },
+  "510925243052": {
+    "name": "UMESH  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "A+",
+        "MA25C01": "B",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243053": {
+    "name": "VAISHNAVI  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "B+",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243054": {
+    "name": "VEDHASHREE  E",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A",
+        "EN25C01": "B+",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243055": {
+    "name": "VENKAT  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "UA",
+        "CS25C03": "UA",
+        "CY25C01": "UA",
+        "EN25C01": "UA",
+        "MA25C01": "UA",
+        "ME25C04": "UA",
+        "PH25C01": "UA",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "UA"
+      }
+    }
+  },
+  "510925243056": {
+    "name": "VIJAY  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243057": {
+    "name": "VINITHA  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "A+",
+        "EN25C01": "A+",
+        "MA25C01": "B+",
+        "ME25C04": "S",
+        "PH25C01": "A+",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243058": {
+    "name": "VISHWA  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "A",
+        "MA25C01": "U",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243059": {
+    "name": "YAHYA  O",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "U",
+        "CS25C03": "U",
+        "CY25C01": "U",
+        "EN25C01": "B",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "U",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510925243060": {
+    "name": "YASTHIKA  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A+",
+        "CS25C03": "A",
+        "CY25C01": "A+",
+        "EN25C01": "A",
+        "MA25C01": "B",
+        "ME25C04": "S",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "A"
+      }
+    }
+  },
+  "510925243061": {
+    "name": "YUKESH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem1": {
+        "CS25C01": "A",
+        "CS25C03": "B+",
+        "CY25C01": "A",
+        "EN25C01": "B",
+        "MA25C01": "U",
+        "ME25C04": "A+",
+        "PH25C01": "A",
+        "UC25A01": "S",
+        "UC25A02": "S",
+        "UC25H01": "B"
+      }
+    }
+  },
+  "510923243004": {
+    "name": "DILLIPRASATH  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "BE3251": "U",
+        "MA3251": "B",
+        "PH3256": "U"
+      },
+      "sem4": {
+        "AD3491": "U",
+        "AL3451": "B+",
+        "CS3591": "B+",
+        "GE3451": "B",
+        "MA3391": "B"
+      },
+      "sem5": {
+        "AD3501": "U",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "A",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "U",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243017": {
+    "name": "PREMKUMAR  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {},
+      "sem4": {},
+      "sem5": {}
+    }
+  },
+  "510923243020": {
+    "name": "ROHITH KUMAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "MA3251": "U"
+      },
+      "sem4": {
+        "AL3451": "UA",
+        "MA3391": "UA"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510924243002": {
+    "name": "ALLAH BAKASH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "GE3251": "B+",
+        "MA3251": "B+",
+        "PH3256": "A+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "A+",
+        "AD3391": "A",
+        "AL3391": "B+",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243003": {
+    "name": "ANBU CHEZHIAN  L E",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "BE3251": "B+",
+        "PH3256": "A"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243006": {
+    "name": "DAYANITHI  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "U",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243007": {
+    "name": "DHARSHINI  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243008": {
+    "name": "DILIPKUMAR  N",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "B+",
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "A+",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243016": {
+    "name": "HARITHADEVI  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "A",
+        "BE3251": "UA",
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243017": {
+    "name": "JAYASURYA  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "U",
+        "BE3251": "B+",
+        "GE3251": "B+",
+        "MA3251": "B+",
+        "PH3256": "U"
+      },
+      "sem3": {
+        "AD3301": "U",
+        "AD3311": "A+",
+        "AD3351": "A",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "B",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243018": {
+    "name": "JEEVITHA  J",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A+",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "A",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "A+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243023": {
+    "name": "MANOJ KUMAR  D",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "BE3251": "B+",
+        "GE3251": "B+",
+        "MA3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "A+",
+        "AD3351": "A",
+        "AD3381": "A+",
+        "AD3391": "B",
+        "AL3391": "B",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "U",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243027": {
+    "name": "NANDHAKUMAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "U"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "B+",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243028": {
+    "name": "NAVEEN KUMAR  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243030": {
+    "name": "NISHA  G",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "HS3252": "B+"
+      },
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "A+",
+        "CS3351": "O",
+        "GE3361": "O",
+        "MA3354": "A+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243038": {
+    "name": "RAKSHITHA  D",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "B+",
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "U",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243040": {
+    "name": "RISHINATH  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "BE3251": "B+",
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "A",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243041": {
+    "name": "SANJANA  N",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "A",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243044": {
+    "name": "SHAILAJA  B",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "BE3251": "UA",
+        "GE3251": "B+",
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "B",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243045": {
+    "name": "SHARAN  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "GE3251": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "B+",
+        "GE3361": "A+",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243048": {
+    "name": "SUSMITHA  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "AD3251": "B+",
+        "GE3251": "B+",
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "U",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243051": {
+    "name": "VARSHA  K",
+    "department": "AIDS",
+    "semesters": {
+      "sem2": {
+        "MA3251": "B+",
+        "PH3256": "B+"
+      },
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "U",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510923243003": {
+    "name": "DEVABALAN  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "MA3354": "UA"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "A",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243302": {
+    "name": "NITHISH  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "UA",
+        "AD3391": "UA",
+        "AL3391": "UA",
+        "CS3351": "UA",
+        "MA3354": "U"
+      },
+      "sem4": {
+        "AD3491": "U",
+        "AL3451": "UA",
+        "CS3591": "U",
+        "GE3451": "UA",
+        "MA3391": "UA"
+      },
+      "sem5": {
+        "AD3501": "U",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "B+",
+        "CCS341": "B",
+        "CS3551": "U",
+        "CW3551": "U",
+        "MX3084": "A+",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243702": {
+    "name": "CHANDRU  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3391": "B+",
+        "MA3354": "UA"
+      },
+      "sem4": {
+        "MA3391": "B"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "A",
+        "CCS341": "B+",
+        "CS3551": "B",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510924243001": {
+    "name": "AARTHI  E",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "O",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243004": {
+    "name": "ASHWINI  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "B+",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243011": {
+    "name": "GAYATHRI  S A",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "A",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243013": {
+    "name": "GOKUL  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "A",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243015": {
+    "name": "HARISH RAJ KUMAR  G S",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243019": {
+    "name": "JOTHISHREE  G",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243025": {
+    "name": "MOHAMMED SUFIYAN  S N",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "A+",
+        "AD3351": "A",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243026": {
+    "name": "MUKESH  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243029": {
+    "name": "NETHRA  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "U",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243032": {
+    "name": "POOJITHA  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "B+",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243034": {
+    "name": "PRIYA  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A+",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A+",
+        "AL3391": "A",
+        "CS3351": "O",
+        "GE3361": "O",
+        "MA3354": "A+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243035": {
+    "name": "RAGHUL  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243036": {
+    "name": "RAHMAN  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "B+",
+        "AD3311": "O",
+        "AD3351": "B+",
+        "AD3381": "A+",
+        "AD3391": "B+",
+        "AL3391": "U",
+        "CS3351": "B+",
+        "GE3361": "O",
+        "MA3354": "B+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243039": {
+    "name": "RANJANI  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "A+",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243046": {
+    "name": "SHREENITHI  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "A+",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243049": {
+    "name": "THANIGACHALAM  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "A",
+        "AL3391": "A+",
+        "CS3351": "A+",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510924243301": {
+    "name": "HARI PRAKASH  C",
+    "department": "AIDS",
+    "semesters": {
+      "sem3": {
+        "AD3301": "A",
+        "AD3311": "O",
+        "AD3351": "A",
+        "AD3381": "O",
+        "AD3391": "B+",
+        "AL3391": "B+",
+        "CS3351": "A",
+        "GE3361": "O",
+        "MA3354": "A",
+        "NM1113": "O"
+      }
+    }
+  },
+  "510923243002": {
+    "name": "BHUVANESHWARAN  P",
+    "department": "AIDS",
+    "semesters": {
+      "sem4": {
+        "AL3451": "B+",
+        "GE3451": "A"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243012": {
+    "name": "MANOJ  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem4": {
+        "AD3491": "B+"
+      },
+      "sem5": {
+        "AD3501": "U",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243014": {
+    "name": "NAVEEN KUMAR  M",
+    "department": "AIDS",
+    "semesters": {
+      "sem4": {
+        "MA3391": "U"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "B+",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243028": {
+    "name": "VIGNESH BASKAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem4": {
+        "MA3391": "B+"
+      },
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "A",
+        "CW3551": "A",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243301": {
+    "name": "AJAI BALAJI  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem4": {
+        "AL3451": "U",
+        "MA3391": "B+"
+      },
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "B+",
+        "CCS335": "B+",
+        "CCS341": "B+",
+        "CS3551": "U",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "A+"
+      }
+    }
+  },
+  "510923243001": {
+    "name": "BALAJI  A",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "A+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243005": {
+    "name": "DIVAKATH  T",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "A+",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "A",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243009": {
+    "name": "KISHORE  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243010": {
+    "name": "LEVIN KUMAR  S",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243011": {
+    "name": "LOKESH  C",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A+",
+        "CS3551": "A",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243016": {
+    "name": "PAVALYA  J",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243018": {
+    "name": "RAJALATHA  B",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A+",
+        "CS3551": "B+",
+        "CW3551": "A+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243021": {
+    "name": "SANJAI  H",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "B+",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A",
+        "CCS341": "A",
+        "CS3551": "B+",
+        "CW3551": "B+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243023": {
+    "name": "SARAVANAN  V",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A+",
+        "CCS341": "O",
+        "CS3551": "A",
+        "CW3551": "A+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
+  },
+  "510923243024": {
+    "name": "SHARMINI  R",
+    "department": "AIDS",
+    "semesters": {
+      "sem5": {
+        "AD3501": "A",
+        "AD3511": "O",
+        "AD3512": "O",
+        "CCS334": "A",
+        "CCS335": "A+",
+        "CCS341": "A+",
+        "CS3551": "A",
+        "CW3551": "A+",
+        "MX3084": "O",
+        "NM1020": "O"
+      }
+    }
   }
 }
