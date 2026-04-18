@@ -4,11 +4,6 @@
     "department": "CSE",
     "semesters": {
       "sem1": {
-        "CY3151": "C",
-        "HS3151": "UA",
-        "MA3151": "UA",
-        "PH3151": "B"
-      },
       "sem2": {
         "BE3251": "UA",
         "CS3251": "U",
