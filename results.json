@@ -10,22 +10,7 @@
         "MA
       },
       "sem5": {
-        "CB3491": "U"
-      },
-      "sem6": {
-        "OEE351": "U"
-      },
-      "sem7": {
-        "AI3021": "UA",
-        "GE3752": "U",
-        "OBT356": "U"
-      }
-    }
-  },
-  "510921104018": {
-    "name": "JOHN SAMUVEL  V",
-    "department": "CSE",
-    "semesters": {
+        "CB3491":
       "sem1": {
         "MA3151": "UA",
         "PH3151": "UA"
