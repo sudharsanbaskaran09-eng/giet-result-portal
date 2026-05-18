@@ -16,11 +16,7 @@
       }
     }
   },
-  "510921104018": {
-    "name": "JOHN SAMUVEL  V",
-    "department": "CSE",
-    "semesters": {
-      "sem1": {
+  
         "MA3151": "UA",
         "PH3151": "UA"
       },
